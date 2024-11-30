@@ -1,0 +1,175 @@
+/* ROBOOT */
+.roboto {
+    font-family: "Roboto";
+}
+
+.roboto-thin {
+    font-family: "Roboto";
+    font-weight: 100;
+    font-style: normal;
+}
+
+.roboto-light {
+    font-family: "Roboto";
+    font-weight: 300;
+    font-style: normal;
+}
+
+.roboto-regular {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-medium {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-style: normal;
+}
+
+.roboto-bold {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-style: normal;
+}
+
+.roboto-black {
+    font-family: "Roboto";
+    font-weight: 900;
+    font-style: normal;
+}
+
+.roboto-thin-italic {
+    font-family: "Roboto";
+    font-weight: 100;
+    font-style: italic;
+}
+
+.roboto-light-italic {
+    font-family: "Roboto";
+    font-weight: 300;
+    font-style: italic;
+}
+
+.roboto-regular-italic {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-style: italic;
+}
+
+.roboto-medium-italic {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-style: italic;
+}
+
+.roboto-bold-italic {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-style: italic;
+}
+
+.roboto-black-italic {
+    font-family: "Roboto";
+    font-weight: 900;
+    font-style: italic;
+}
+
+/* ROBOTO FLEX */
+.roboto-flex {
+    font-family: "Roboto Flex";
+}
+
+.roboto-flex-thin {
+    font-family: "Roboto Flex";
+    font-weight: 100;
+    font-style: normal;
+}
+
+.roboto-flex-light {
+    font-family: "Roboto Flex";
+    font-weight: 300;
+    font-style: normal;
+}
+
+.roboto-flex-regular {
+    font-family: "Roboto Flex";
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-flex-medium {
+    font-family: "Roboto Flex";
+    font-weight: 500;
+    font-style: normal;
+}
+
+.roboto-flex-bold {
+    font-family: "Roboto Flex";
+    font-weight: 700;
+    font-style: normal;
+}
+
+.roboto-flex-black {
+    font-family: "Roboto Flex";
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* ONEST */
+
+.onest {
+    font-family: "Onest";
+}
+
+.onest-thin {
+    font-family: "Onest";
+    font-weight: 100;
+    font-style: normal;
+}
+.onest-extra-light {
+    font-family: "Onest";
+    font-weight: 200;
+    font-style: normal;
+}
+
+.onest-light {
+    font-family: "Onest";
+    font-weight: 300;
+    font-style: normal;
+}
+
+.onest-regular {
+    font-family: "Onest";
+    font-weight: 400;
+    font-style: normal;
+}
+
+.onest-medium {
+    font-family: "Onest";
+    font-weight: 500;
+    font-style: normal;
+}
+.onest-semi-bold {
+    font-family: "Onest";
+    font-weight: 600;
+    font-style: normal;
+}
+
+.onest-bold {
+    font-family: "Onest";
+    font-weight: 700;
+    font-style: normal;
+}
+
+.onest-extra-bold {
+    font-family: "Onest";
+    font-weight: 800;
+    font-style: normal;
+}
+
+.onest-black {
+    font-family: "Onest";
+    font-weight: 900;
+    font-style: normal;
+}
