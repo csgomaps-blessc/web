@@ -1,7 +1,4 @@
 import Home from "@/views/Home.vue";
-import PrivacyPolicy from "@/views/PrivacyPolicy.vue";
-import PublicOffer from "@/views/PublicOffer.vue";
-import TermsOfUse from "@/views/TermsOfUse.vue";
 import { createRouter, createWebHistory } from "vue-router";
 
 const router = createRouter({
@@ -11,21 +8,6 @@ const router = createRouter({
             path: "/",
             name: "home",
             component: Home,
-        },
-        {
-            path: "/papers/terms",
-            name: "terms",
-            component: TermsOfUse,
-        },
-        {
-            path: "/papers/privacy-policy",
-            name: "privacy",
-            component: PrivacyPolicy,
-        },
-        {
-            path: "/papers/public-offer",
-            name: "offer",
-            component: PublicOffer,
         },
         {
             path: "/map/:mapId",
